@@ -1,4 +1,16 @@
-# Neuffer developers-test
+# Test Neuffer Task
+
+### Prerequisites
+
+* PHP >= 8.0
+* Composer
+
+### Installing
+
+* Run "composer install"
+* 
+
+## Description
 
 We have prepared for you simple test task what as we believe, allow us to estimate your experience.
 It is a small php-script, which should be started in console like:
