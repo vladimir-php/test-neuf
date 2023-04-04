@@ -8,7 +8,7 @@
 ### Installing
 
 * Run "composer install"
-* 
+
 
 ## Description
 
